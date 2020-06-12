@@ -1,6 +1,6 @@
 body {
   font-family: 'Comfortaa', sans-serif;
-  background-image: linear-gradient(to right, #FDFEFE , #9430F2 );
+  background-image: linear-gradient(to right, #FDFEFE , #E2D9EB );
 }
 
 .main-wrapper {
@@ -13,8 +13,8 @@ body {
 .badge {
   position: relative;
   margin: 1.5em 3em;
-  width: 4em;
-  height: 6.2em;
+  width: 5.7em;
+  height: 6.4em;
   border-radius: 10px;
   display: inline-block;
   top: 0;
@@ -34,10 +34,10 @@ body {
   margin: auto;
 }
 .badge:before {
-  transform: rotate(60deg);
+  transform: rotate(90deg);
 }
 .badge:after {
-  transform: rotate(-60deg);
+  transform: rotate(-90deg);
 }
 .badge:hover {
   top: -4px;
