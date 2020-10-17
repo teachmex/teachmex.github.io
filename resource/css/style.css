@@ -34,10 +34,10 @@ body {
   margin: auto;
 }
 .badge:before {
-  transform: rotate(90deg);
+  transform: rotate(6deg);
 }
 .badge:after {
-  transform: rotate(-90deg);
+  transform: rotate(-6deg);
 }
 .badge:hover {
   top: -4px;
