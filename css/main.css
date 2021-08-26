@@ -1068,7 +1068,7 @@ th {
       opacity: 1; }
 
 .single-popular-course .details {
-  padding: 40px 30px;
+  padding: 0px 0px;
   background: #f9f9fb; }
 .single-popular-course .thumb {
   overflow: hidden; }
@@ -1124,7 +1124,7 @@ th {
   .video-area .video-part {
     position: relative; }
     .video-area .video-part .overlay {
-      background: rgba(0, 0, 0, 0.3); }
+      background: rgba(0, 0, 0, 0); }
     .video-area .video-part .popup-youtube {
       position: absolute;
       left: 0px;
