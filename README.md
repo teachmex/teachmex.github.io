@@ -1,5 +1,9 @@
 # Teachme.Codes
-Code
+
+
+
+
+### References
 
 1. https://codepen.io/gschoppe/pen/NBaELE
 2. https://www.redblobgames.com/grids/hexagons/
